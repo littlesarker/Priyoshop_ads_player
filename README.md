@@ -14,10 +14,16 @@ Android/build.gradle
 set complie sdk to 34 
 min sdk to 21 
 
+
 APK Link : https://drive.google.com/file/d/1dvNGVualVXxgvIfHXIQJPZEMwLoB8EkW/view?usp=drive_link
 
 Video for app is running 
 
 https://drive.google.com/file/d/1OqO51i5bAhBV16ZA6p0owNWESk_thkPT/view?usp=drive_link
+
+
+If Face any problem 
+Contact me : 01540313382
+email: rahimsarker.swe@gmail.com
 
 
