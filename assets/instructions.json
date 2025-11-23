@@ -1,0 +1,32 @@
+{
+  "instructions": [
+    {
+      "type": "update_schedule",
+      "name": "default_schedule",
+      "data": {
+        "playlist_repeat": "always",
+        "playlist": [
+          {
+            "folder": "ads",
+            "files": [
+              "video1.mp4",
+              "video2.mp4"
+            ],
+            "ad_id": 1,
+            "repeat": 2,
+            "sequence": 1
+          },
+          {
+            "folder": "ads",
+            "files": [
+              "video3.mp4"
+            ],
+            "ad_id": 2,
+            "repeat": 1,
+            "sequence": 2
+          }
+        ]
+      }
+    }
+  ]
+}
